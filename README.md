@@ -1,2 +1,2 @@
 # ALESTII---BARCOS-FENICIOS
-Solução para o Segundo Trabalho da Cadeira de Algorimos e Estrutura de Dados II
+Solução para o Segundo Trabalho da Cadeira de Algorimos e Estrutura de Dados II -> Consistia em percorrer todos os portos um mapa, que tinha portos, terra e mar, sendo necessario filtrar todos os portos acessiveis de fato. Para tal, foi-se usado o principio de Breadth First Search (BFS) em uma matriz contendo os dados do mapa. O programa foi feito de tal modo a conseguir processar qualquer matriz com formato definido (-1 para agua, 0 para terra e os respectivos portos de 1-9).
